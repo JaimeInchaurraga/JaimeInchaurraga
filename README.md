@@ -18,7 +18,7 @@
 - 👨‍💻 My projects are available at [https://github.com/JaimeInchaurraga](https://github.com/JaimeInchaurraga)
 - 💬 About me: 
 
-Hey there! 👋 I'm Jaime, a tech enthusiast who somehow found his way into the world of data science. With a background in project and product management in the tech industry, I realized that my true passion lies where data and emerging technologies meet. Think of me as that guy who reads spreadsheets for fun and gets excited about new Python libraries like it's the latest Hause of Dragons episode. When I'm not wrestling with datasets, I'm here on GitHub, probably breaking something to learn how to fix it. Let's connect, share ideas, or maybe just laugh at the latest meme! 😉
+Hey there! 👋 I'm Jaime, a tech enthusiast who somehow found his way into the world of data science. With a background in project and product management in the tech industry, I realized that my true passion lies where data and emerging technologies meet. Think of me as that guy who reads spreadsheets for fun and gets excited about new Python libraries like it's the latest House of Dragons episode. When I'm not wrestling with datasets, I'm here on GitHub, probably breaking something to learn how to fix it. Let's connect, share ideas, or maybe just laugh at the latest meme! 😉
 
 <h2 align="left"> My Skills </h2>
 <h3 align="left"> Proficient in </h3>
