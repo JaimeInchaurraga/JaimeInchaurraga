@@ -1,16 +1,17 @@
 ### Welcome to my Github! 
+### **Jaime Inchaurraga**
 
-<img align='right' src="https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif" width="230" style="border: none;">
 
-<h1 align="center"> My name is Jaime Inchaurraga </h1>
+
 <h3 align="left"> A passionate junior data analyst | data scientist | based in Madrid, Spain </h3>
 
 [![Linkedin: JaimeInchaurraga](https://img.shields.io/badge/-jaimeinchaurraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimeinchaurraga/)](https://www.linkedin.com/in/jaimeinchaurraga/)
 [![Gmail Badge](https://img.shields.io/badge/-jaimeih.94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaimeih.94@gmail.com)](mailto:jaimeih.94@gmail.com)
 [![GitHub JaimeInchaurraga](https://img.shields.io/github/followers/JaimeInchaurraga?label=follow&style=social)](https://github.com/JaimeInchaurraga)
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<h2 align="left"> About Me </h2>
+
+### About Me 
 
 - 💻 My portfolio: [portfolio](https://jaimeinchaurraga.github.io/Portfolio/) --> **IN PROCESS**
 - 🤝 Looking for new projects to continue growing and learning [Contact me here!](mailto:jaimeih.94@gmail.com)
@@ -44,10 +45,6 @@ Hey there! 👋 I'm Jaime, a tech enthusiast who somehow found his way into the 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/JaimeInchaurraga)
 
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat&logo=adobe-indesign)
   
 - 📊 &nbsp;
   ![Agile](https://img.shields.io/badge/-Agile-FFFFFF?style=flat&logo=agile)
@@ -65,4 +62,9 @@ Hey there! 👋 I'm Jaime, a tech enthusiast who somehow found his way into the 
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-advanced-green?style=for-the-badge&logo=My
+  <img src="https://img.shields.io/badge/SQL-advanced-green?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white" />
+</div>
+
+</br>
+
