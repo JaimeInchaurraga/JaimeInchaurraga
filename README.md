@@ -13,7 +13,8 @@
 
 ### About Me 
 
-- 💻 My portfolio: [portfolio](https://jaimeinchaurraga.github.io) --> **IN PROCESS**
+- 💻 My portfolio: [portfolio](https://jaimeinchaurraga.github.io) 
+
 - 🤝 Looking for new projects to continue growing and learning [Contact me here!](mailto:jaimeih.94@gmail.com)
 - 👨‍💻 My projects are available at [https://github.com/JaimeInchaurraga](https://github.com/JaimeInchaurraga)
 - 💬 About me: 
