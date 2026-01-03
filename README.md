@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif" width="230" style="border: none;">
 
 
-<h3 align="left"> A passionate junior data analyst | data scientist | based in Madrid, Spain </h3>
+<h3 align="left"> A passionate I’m Jaime Inchaurraga, a Product Manager / Product Owner with a multidisciplinary background in product, UX, and data| based in Madrid, Spain </h3>
 
 [![Linkedin: JaimeInchaurraga](https://img.shields.io/badge/-jaimeinchaurraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimeinchaurraga/)](https://www.linkedin.com/in/jaimeinchaurraga/)
 [![Gmail Badge](https://img.shields.io/badge/-jaimeih.94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaimeih.94@gmail.com)](mailto:jaimeih.94@gmail.com)
